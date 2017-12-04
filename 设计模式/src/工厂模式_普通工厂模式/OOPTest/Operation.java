@@ -2,7 +2,7 @@ package 工厂模式_普通工厂模式.OOPTest;
 
 /**
  * Created by ${super} on ${2017/5/27}.
- * 通过简单的计算器程序
+ * 通过简单的计算器程序更好的理解面向对象程序设计
  */
 public  class Operation {
     private double _numberA = 0;
