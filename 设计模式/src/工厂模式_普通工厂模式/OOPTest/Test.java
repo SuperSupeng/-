@@ -2,6 +2,7 @@ package 工厂模式_普通工厂模式.OOPTest;
 
 /**
  * Created by ${super} on ${2017/5/27}.
+ * 测试类
  */
 public class Test {
     public static void main(String[] args){
