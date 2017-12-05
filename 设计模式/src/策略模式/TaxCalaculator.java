@@ -1,4 +1,4 @@
-package demo2;
+package 策略模式;
 
 public class TaxCalaculator {
 	private final double salary;

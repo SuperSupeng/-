@@ -1,4 +1,4 @@
-package demo2;
+package 策略模式;
 
 @FunctionalInterface
 public interface CalculatorStrategy {
