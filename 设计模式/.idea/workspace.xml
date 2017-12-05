@@ -27,11 +27,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CashReturn.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CashReturn.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/工厂模式_普通工厂模式/OOPTest2/CashReturn.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="735">
-              <caret line="21" column="22" lean-forward="false" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+              <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CashFactory.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/工厂模式_普通工厂模式/OOPTest2/CashFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="560">
+              <caret line="16" column="48" lean-forward="false" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -96,6 +106,7 @@
         <option value="$PROJECT_DIR$/src/工厂模式_普通工厂模式/OOPTest2/CashNormal.java" />
         <option value="$PROJECT_DIR$/src/工厂模式_普通工厂模式/OOPTest2/CashRebate.java" />
         <option value="$PROJECT_DIR$/src/工厂模式_普通工厂模式/OOPTest2/CashReturn.java" />
+        <option value="$PROJECT_DIR$/src/工厂模式_普通工厂模式/OOPTest2/CashFactory.java" />
       </list>
     </option>
   </component>
@@ -480,13 +491,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/原型模式/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="46" lean-forward="true" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/原型模式/Prototype.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -832,7 +836,15 @@
     <entry file="file://$PROJECT_DIR$/src/工厂模式_普通工厂模式/OOPTest2/CashReturn.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="735">
-          <caret line="21" column="22" lean-forward="false" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+          <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/工厂模式_普通工厂模式/OOPTest2/CashFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="16" column="48" lean-forward="false" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
           <folding />
         </state>
       </provider>
