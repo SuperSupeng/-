@@ -13,6 +13,6 @@ public class CashRebate extends CashSuper {
 
     @Override
     public double acceptCash(double money) {
-
+        return money*rebate;
     }
 }
