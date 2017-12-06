@@ -22,15 +22,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Pursuit.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Pursuit.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/代理模式/Pursuit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="9" column="33" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+            <state relative-caret-position="350">
+              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
               <folding>
                 <element signature="e#149#150#0" expanded="true" />
                 <element signature="e#192#193#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Proxy.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/代理模式/Proxy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -55,7 +65,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/工厂模式/MyClassTwo.java" />
         <option value="$PROJECT_DIR$/src/工厂模式/MyFactory.java" />
         <option value="$PROJECT_DIR$/src/工厂模式_普通工厂模式/FactoryTest.java" />
         <option value="$PROJECT_DIR$/src/工厂模式_多个工厂方法模式/MyInterface.java" />
@@ -106,6 +115,7 @@
         <option value="$PROJECT_DIR$/src/装饰者模式/Sneakers.java" />
         <option value="$PROJECT_DIR$/src/代理模式/GiveGift.java" />
         <option value="$PROJECT_DIR$/src/代理模式/Pursuit.java" />
+        <option value="$PROJECT_DIR$/src/代理模式/Proxy.java" />
       </list>
     </option>
   </component>
@@ -505,13 +515,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/工厂方法_抽象工厂方法模式/MyClassOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="35" lean-forward="true" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/工厂方法_抽象工厂方法模式/FactoryTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -873,12 +876,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/代理模式/Pursuit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="9" column="33" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        <state relative-caret-position="350">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
           <folding>
             <element signature="e#149#150#0" expanded="true" />
             <element signature="e#192#193#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/代理模式/Proxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
