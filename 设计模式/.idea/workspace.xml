@@ -78,10 +78,10 @@
         <option value="$PROJECT_DIR$/src/工厂模式_普通工厂模式/OOPTest2/CashContext.java" />
         <option value="$PROJECT_DIR$/src/装饰者模式/TShirts.java" />
         <option value="$PROJECT_DIR$/src/装饰者模式/BigTrouser.java" />
-        <option value="$PROJECT_DIR$/src/装饰者模式/Sneakers.java" />
         <option value="$PROJECT_DIR$/src/装饰者模式/Main.java" />
         <option value="$PROJECT_DIR$/src/装饰者模式/Person.java" />
         <option value="$PROJECT_DIR$/src/装饰者模式/Finery.java" />
+        <option value="$PROJECT_DIR$/src/装饰者模式/Sneakers.java" />
       </list>
     </option>
   </component>
@@ -809,14 +809,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/装饰者模式/Sneakers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/装饰者模式/TShirts.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -848,6 +840,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="339">
           <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/装饰者模式/Sneakers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
           <folding />
         </state>
       </provider>
