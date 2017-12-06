@@ -5,8 +5,24 @@ package 代理模式;
  */
 public class Pursuit implements GiveGift {
 
+    SchoolGirl girl;
+
+    public Pursuit(SchoolGirl girl){
+        this.girl = girl;
+    }
+
     @Override
     public void giveDolls() {
-        System.out.println("送你洋娃娃");
+        System.out.println(girl.getName() + "送你洋娃娃");
+    }
+
+    @Override
+    public void giveFlowers() {
+        System.out.println(girl.getName() + "送你鲜花");
+    }
+
+    @Override
+    public void giveChocolate() {
+        System.out.println(girl.getName() + "送你巧克力");
     }
 }
