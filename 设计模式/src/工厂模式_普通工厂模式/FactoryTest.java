@@ -1,5 +1,7 @@
 package 工厂模式_普通工厂模式;
 
+import java.util.Stack;
+
 /**
  * Created by dell on 2017/5/27.
  */
