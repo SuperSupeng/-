@@ -1,4 +1,4 @@
-package OperationFactory;
+package SimpleFactoryMode;
 
 public class OpeartionFactory {
     public static void main(String[] args){
