@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5fd1cd52-dd90-483d-9e6b-a0cf9a21fcdc" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/大话设计模式/src/StrategyPattern/ConcreteStrategyA.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/大话设计模式/src/StrategyPattern/ConcreteStrategyB.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/大话设计模式/src/StrategyPattern/ConcreteStrategyC.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/大话设计模式/src/StrategyPattern/Context.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/大话设计模式/src/StrategyPattern/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/大话设计模式/src/StrategyPattern/Strategy.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/大话设计模式/src/StrategyPattern/StrategyPattern.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/大话设计模式/src/StrategyPattern/策略模式.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/大话设计模式/src/StrategyPattern/策略模式.uml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/大话设计模式/src/StrategyPattern/策略模式.~ml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/大话设计模式/summary.md" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/大话设计模式/src/SimpleFactoryMode/Test.java" afterPath="$PROJECT_DIR$/大话设计模式/src/SimpleFactoryMode/Main.java" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -92,12 +80,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="summary.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="summary.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/大话设计模式/summary.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="385">
-                <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+              <first_editor relative-caret-position="245">
+                <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="70">
+                <caret line="2" column="37" lean-forward="true" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -140,6 +141,7 @@
         <option value="$PROJECT_DIR$/大话设计模式/src/StrategyPattern/Context.java" />
         <option value="$PROJECT_DIR$/大话设计模式/src/StrategyPattern/Main.java" />
         <option value="$PROJECT_DIR$/大话设计模式/summary.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -521,12 +523,12 @@
       <workItem from="1513831609186" duration="1555000" />
       <workItem from="1513860535841" duration="18000" />
       <workItem from="1513907420549" duration="597000" />
-      <workItem from="1513908047484" duration="1976000" />
+      <workItem from="1513908047484" duration="2260000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8956000" />
+    <option name="totallyTimeSpent" value="9240000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="2418" height="1368" extended-state="6" />
@@ -799,8 +801,19 @@
     <entry file="file://$PROJECT_DIR$/大话设计模式/summary.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="385">
-            <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+          <first_editor relative-caret-position="245">
+            <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="70">
+            <caret line="2" column="37" lean-forward="true" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
             <folding />
           </first_editor>
           <second_editor />
