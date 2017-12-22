@@ -1,7 +1,7 @@
 package SimpleFactoryMode;
 
 
-public class Test {
+public class Main {
     public static void main(String[] args) {
         Operation operation = OperationFactory.createOperate("+");
         operation.set_numberA(1);
