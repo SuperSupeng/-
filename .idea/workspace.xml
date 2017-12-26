@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5fd1cd52-dd90-483d-9e6b-a0cf9a21fcdc" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/大话设计模式/src/DecorativePattern/DecorativePattern.md" afterPath="$PROJECT_DIR$/大话设计模式/src/DecorativePattern/DecorativePattern.md" />
+      <change beforePath="$PROJECT_DIR$/大话设计模式/src/StrategyPattern/StrategyPattern.md" afterPath="$PROJECT_DIR$/大话设计模式/src/StrategyPattern/StrategyPattern.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -39,7 +39,6 @@
         <option value="$PROJECT_DIR$/大话设计模式/src/SimpleFactoryMode/OpeartionFactory.java" />
         <option value="$PROJECT_DIR$/大话设计模式/src/SimpleFactoryMode/Test.java" />
         <option value="$PROJECT_DIR$/大话设计模式/src/SimpleFactoryMode/simpleFactoryMode.md" />
-        <option value="$PROJECT_DIR$/大话设计模式/src/StrategyPattern/StrategyPattern.md" />
         <option value="$PROJECT_DIR$/大话设计模式/src/StrategyPattern/Strategy.java" />
         <option value="$PROJECT_DIR$/大话设计模式/src/StrategyPattern/ConcreteStrategyA.java" />
         <option value="$PROJECT_DIR$/大话设计模式/src/StrategyPattern/ConcreteStrategyB.java" />
@@ -60,6 +59,7 @@
         <option value="$PROJECT_DIR$/大话设计模式/src/ProxyPattern/Main.java" />
         <option value="$PROJECT_DIR$/大话设计模式/src/ProxyPattern/ProxyPattern.md" />
         <option value="$PROJECT_DIR$/大话设计模式/src/DecorativePattern/DecorativePattern.md" />
+        <option value="$PROJECT_DIR$/大话设计模式/src/StrategyPattern/StrategyPattern.md" />
       </list>
     </option>
   </component>
@@ -155,13 +155,6 @@
               <item name="Design-patterns" type="462c0819:PsiDirectoryNode" />
               <item name="大话设计模式" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Design-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Design-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="大话设计模式" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DecorativePattern" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -477,12 +470,12 @@
       <workItem from="1513908047484" duration="2311000" />
       <workItem from="1513910532572" duration="55000" />
       <workItem from="1514197321588" duration="3129000" />
-      <workItem from="1514248213869" duration="1294000" />
+      <workItem from="1514248213869" duration="1487000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13769000" />
+    <option name="totallyTimeSpent" value="13962000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
@@ -692,13 +685,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/大话设计模式/src/StrategyPattern/StrategyPattern.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35">
-          <caret line="1" column="54" lean-forward="false" selection-start-line="1" selection-start-column="54" selection-end-line="1" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/大话设计模式/src/SimpleFactoryMode/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
@@ -848,6 +834,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/大话设计模式/src/DecorativePattern/DecorativePattern.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="70">
+            <caret line="2" column="33" lean-forward="false" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/大话设计模式/src/ProxyPattern/ProxyPattern.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -859,14 +856,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/大话设计模式/src/DecorativePattern/DecorativePattern.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="70">
-            <caret line="2" column="33" lean-forward="false" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
-            <folding />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/大话设计模式/src/StrategyPattern/StrategyPattern.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="2" column="49" lean-forward="false" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
+          <folding />
         </state>
       </provider>
     </entry>
