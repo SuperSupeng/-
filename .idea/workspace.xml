@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5fd1cd52-dd90-483d-9e6b-a0cf9a21fcdc" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/大话设计模式/src/TemplateMethod/AbstractClass.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/大话设计模式/src/TemplateMethod/ConcreteClassA.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/大话设计模式/src/TemplateMethod/ConcreteClassB.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/大话设计模式/src/TemplateMethod/Main.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/大话设计模式/src/TemplateMethod/TemplateMethod.md" afterPath="$PROJECT_DIR$/大话设计模式/src/TemplateMethod/TemplateMethod.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,8 +27,8 @@
         <entry file="file://$PROJECT_DIR$/大话设计模式/src/TemplateMethod/TemplateMethod.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="54">
-                <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <first_editor relative-caret-position="108">
+                <caret line="4" column="35" lean-forward="false" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -100,11 +96,11 @@
         <option value="$PROJECT_DIR$/大话设计模式/src/PrototypePattern/Main.java" />
         <option value="$PROJECT_DIR$/大话设计模式/src/PrototypePattern/Prototype.java" />
         <option value="$PROJECT_DIR$/大话设计模式/src/PrototypePattern/PrototypePattern.md" />
-        <option value="$PROJECT_DIR$/大话设计模式/src/TemplateMethod/TemplateMethod.md" />
         <option value="$PROJECT_DIR$/大话设计模式/src/TemplateMethod/AbstractClass.java" />
         <option value="$PROJECT_DIR$/大话设计模式/src/TemplateMethod/ConcreteClassA.java" />
         <option value="$PROJECT_DIR$/大话设计模式/src/TemplateMethod/ConcreteClassB.java" />
         <option value="$PROJECT_DIR$/大话设计模式/src/TemplateMethod/Main.java" />
+        <option value="$PROJECT_DIR$/大话设计模式/src/TemplateMethod/TemplateMethod.md" />
       </list>
     </option>
   </component>
@@ -513,12 +509,12 @@
       <workItem from="1514334136898" duration="2658000" />
       <workItem from="1514338445210" duration="7000" />
       <workItem from="1514525059211" duration="1218000" />
-      <workItem from="1514698004984" duration="1065000" />
+      <workItem from="1514698004984" duration="1277000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18977000" />
+    <option name="totallyTimeSpent" value="19189000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -954,8 +950,8 @@
     <entry file="file://$PROJECT_DIR$/大话设计模式/src/TemplateMethod/TemplateMethod.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="54">
-            <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <first_editor relative-caret-position="108">
+            <caret line="4" column="35" lean-forward="false" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
             <folding />
           </first_editor>
           <second_editor />
