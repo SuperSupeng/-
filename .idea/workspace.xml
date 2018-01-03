@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5fd1cd52-dd90-483d-9e6b-a0cf9a21fcdc" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/大话设计模式/src/FacadePatterns/Facade.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/大话设计模式/src/FacadePatterns/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/大话设计模式/src/FacadePatterns/SubSystemFour.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/大话设计模式/src/FacadePatterns/SubSystemOne.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/大话设计模式/src/FacadePatterns/SubSystemThree.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/大话设计模式/src/FacadePatterns/SubSystemTwo.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/大话设计模式/src/FacadePatterns/FacadePatterns.md" afterPath="$PROJECT_DIR$/大话设计模式/src/FacadePatterns/FacadePatterns.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,22 +13,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Facade.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/大话设计模式/src/FacadePatterns/Facade.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="702">
-              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/大话设计模式/src/FacadePatterns/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-              <folding />
+      <file leaf-file-name="FacadePatterns.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/大话设计模式/src/FacadePatterns/FacadePatterns.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="162">
+                <caret line="6" column="116" lean-forward="false" selection-start-line="6" selection-start-column="116" selection-end-line="6" selection-end-column="116" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -103,13 +90,13 @@
         <option value="$PROJECT_DIR$/大话设计模式/src/TemplateMethod/Main.java" />
         <option value="$PROJECT_DIR$/大话设计模式/src/TemplateMethod/TemplateMethod.md" />
         <option value="$PROJECT_DIR$/大话设计模式/summary.md" />
-        <option value="$PROJECT_DIR$/大话设计模式/src/FacadePatterns/FacadePatterns.md" />
         <option value="$PROJECT_DIR$/大话设计模式/src/FacadePatterns/SubSystemOne.java" />
         <option value="$PROJECT_DIR$/大话设计模式/src/FacadePatterns/SubSystemFour.java" />
         <option value="$PROJECT_DIR$/大话设计模式/src/FacadePatterns/SubSystemThree.java" />
         <option value="$PROJECT_DIR$/大话设计模式/src/FacadePatterns/SubSystemTwo.java" />
         <option value="$PROJECT_DIR$/大话设计模式/src/FacadePatterns/Facade.java" />
         <option value="$PROJECT_DIR$/大话设计模式/src/FacadePatterns/Main.java" />
+        <option value="$PROJECT_DIR$/大话设计模式/src/FacadePatterns/FacadePatterns.md" />
       </list>
     </option>
   </component>
@@ -502,12 +489,12 @@
       <workItem from="1514525059211" duration="1218000" />
       <workItem from="1514698004984" duration="1823000" />
       <workItem from="1514701746661" duration="7000" />
-      <workItem from="1514965096086" duration="1290000" />
+      <workItem from="1514965096086" duration="1915000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21032000" />
+    <option name="totallyTimeSpent" value="21657000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -519,7 +506,7 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32790223" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32790223" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979593" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -885,17 +872,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/大话设计模式/src/FacadePatterns/FacadePatterns.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="54">
-            <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/大话设计模式/src/FacadePatterns/SubSystemTwo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -931,6 +907,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/大话设计模式/src/FacadePatterns/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/大话设计模式/src/FacadePatterns/Facade.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="702">
@@ -939,11 +923,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/大话设计模式/src/FacadePatterns/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-          <folding />
+    <entry file="file://$PROJECT_DIR$/大话设计模式/src/FacadePatterns/FacadePatterns.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="162">
+            <caret line="6" column="116" lean-forward="false" selection-start-line="6" selection-start-column="116" selection-end-line="6" selection-end-column="116" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
