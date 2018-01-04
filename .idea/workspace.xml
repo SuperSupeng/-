@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5fd1cd52-dd90-483d-9e6b-a0cf9a21fcdc" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/大话设计模式/src/BuilderPattern/Builder.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/大话设计模式/src/BuilderPattern/ConcreteBuilder1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/大话设计模式/src/BuilderPattern/ConcreteBuilder2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/大话设计模式/src/BuilderPattern/Director.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/大话设计模式/src/BuilderPattern/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/大话设计模式/src/BuilderPattern/Product.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/大话设计模式/src/BuilderPattern/BuilderPattern.md" afterPath="$PROJECT_DIR$/大话设计模式/src/BuilderPattern/BuilderPattern.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,62 +13,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Director.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/大话设计模式/src/BuilderPattern/Director.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="31" lean-forward="true" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Builder.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/大话设计模式/src/BuilderPattern/Builder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" column="40" lean-forward="true" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConcreteBuilder1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/大话设计模式/src/BuilderPattern/ConcreteBuilder1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding>
-                <element signature="e#164#165#0" expanded="true" />
-                <element signature="e#198#199#0" expanded="true" />
-                <element signature="e#246#247#0" expanded="true" />
-                <element signature="e#280#281#0" expanded="true" />
-                <element signature="e#328#329#0" expanded="true" />
-                <element signature="e#358#359#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/大话设计模式/src/BuilderPattern/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="13" column="36" lean-forward="true" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Product.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/大话设计模式/src/BuilderPattern/Product.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="28" lean-forward="true" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-              <folding>
-                <element signature="e#179#180#0" expanded="true" />
-                <element signature="e#210#211#0" expanded="true" />
-              </folding>
+      <file leaf-file-name="BuilderPattern.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/大话设计模式/src/BuilderPattern/BuilderPattern.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="81">
+                <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -143,13 +90,13 @@
         <option value="$PROJECT_DIR$/大话设计模式/src/FacadePatterns/Facade.java" />
         <option value="$PROJECT_DIR$/大话设计模式/src/FacadePatterns/Main.java" />
         <option value="$PROJECT_DIR$/大话设计模式/src/FacadePatterns/FacadePatterns.md" />
-        <option value="$PROJECT_DIR$/大话设计模式/src/BuilderPattern/BuilderPattern.md" />
         <option value="$PROJECT_DIR$/大话设计模式/src/BuilderPattern/Product.java" />
         <option value="$PROJECT_DIR$/大话设计模式/src/BuilderPattern/Builder.java" />
         <option value="$PROJECT_DIR$/大话设计模式/src/BuilderPattern/ConcreteBuilder1.java" />
         <option value="$PROJECT_DIR$/大话设计模式/src/BuilderPattern/ConcreBuilder2.java" />
         <option value="$PROJECT_DIR$/大话设计模式/src/BuilderPattern/Director.java" />
         <option value="$PROJECT_DIR$/大话设计模式/src/BuilderPattern/Main.java" />
+        <option value="$PROJECT_DIR$/大话设计模式/src/BuilderPattern/BuilderPattern.md" />
       </list>
     </option>
   </component>
@@ -527,12 +474,12 @@
       <workItem from="1514698004984" duration="1823000" />
       <workItem from="1514701746661" duration="7000" />
       <workItem from="1514965096086" duration="2147000" />
-      <workItem from="1515043138355" duration="1323000" />
+      <workItem from="1515043138355" duration="1431000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23212000" />
+    <option name="totallyTimeSpent" value="23320000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -894,17 +841,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/大话设计模式/src/BuilderPattern/BuilderPattern.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="54">
-            <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/大话设计模式/src/BuilderPattern/ConcreteBuilder2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
@@ -967,6 +903,17 @@
         <state relative-caret-position="351">
           <caret line="13" column="36" lean-forward="true" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/大话设计模式/src/BuilderPattern/BuilderPattern.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="81">
+            <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
