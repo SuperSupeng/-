@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5fd1cd52-dd90-483d-9e6b-a0cf9a21fcdc" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/大话设计模式/src/ObserverPattern/ConcreteObserver.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/大话设计模式/src/ObserverPattern/ConcreteSubject.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/大话设计模式/src/ObserverPattern/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/大话设计模式/src/ObserverPattern/Observer.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/大话设计模式/src/ObserverPattern/Subject.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/大话设计模式/src/ObserverPattern/ObserverPattern.md" afterPath="$PROJECT_DIR$/大话设计模式/src/ObserverPattern/ObserverPattern.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -64,12 +59,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/大话设计模式/src/ObserverPattern/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="243">
               <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ObserverPattern.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/大话设计模式/src/ObserverPattern/ObserverPattern.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="189">
+                <caret line="7" column="68" lean-forward="false" selection-start-line="7" selection-start-column="68" selection-end-line="7" selection-end-column="68" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -149,12 +157,12 @@
         <option value="$PROJECT_DIR$/大话设计模式/src/BuilderPattern/Director.java" />
         <option value="$PROJECT_DIR$/大话设计模式/src/BuilderPattern/Main.java" />
         <option value="$PROJECT_DIR$/大话设计模式/src/BuilderPattern/BuilderPattern.md" />
-        <option value="$PROJECT_DIR$/大话设计模式/src/ObserverPattern/ObserverPattern.md" />
         <option value="$PROJECT_DIR$/大话设计模式/src/ObserverPattern/Subject.java" />
         <option value="$PROJECT_DIR$/大话设计模式/src/ObserverPattern/Observer.java" />
         <option value="$PROJECT_DIR$/大话设计模式/src/ObserverPattern/ConcreteSubject.java" />
         <option value="$PROJECT_DIR$/大话设计模式/src/ObserverPattern/ConcreteObserver.java" />
         <option value="$PROJECT_DIR$/大话设计模式/src/ObserverPattern/Main.java" />
+        <option value="$PROJECT_DIR$/大话设计模式/src/ObserverPattern/ObserverPattern.md" />
       </list>
     </option>
   </component>
@@ -533,12 +541,12 @@
       <workItem from="1514701746661" duration="7000" />
       <workItem from="1514965096086" duration="2147000" />
       <workItem from="1515043138355" duration="1591000" />
-      <workItem from="1515114326505" duration="4088000" />
+      <workItem from="1515114326505" duration="5756000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27568000" />
+    <option name="totallyTimeSpent" value="29236000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -923,17 +931,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/大话设计模式/src/ObserverPattern/ObserverPattern.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="54">
-            <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/大话设计模式/src/ObserverPattern/Subject.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-11">
@@ -987,6 +984,17 @@
         <state relative-caret-position="243">
           <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/大话设计模式/src/ObserverPattern/ObserverPattern.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="189">
+            <caret line="7" column="68" lean-forward="false" selection-start-line="7" selection-start-column="68" selection-end-line="7" selection-end-column="68" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
