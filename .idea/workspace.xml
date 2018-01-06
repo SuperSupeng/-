@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5fd1cd52-dd90-483d-9e6b-a0cf9a21fcdc" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/大话设计模式/src/AbstractFactoryModel/AbstractFactoryModel.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/大话设计模式/src/AbstractFactoryModel/ConnectionFactory.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/大话设计模式/src/AbstractFactoryModel/dbconfig.properties" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/大话设计模式/src/AbstractFactoryModel/AbstractFactoryModel.md" afterPath="$PROJECT_DIR$/大话设计模式/src/AbstractFactoryModel/AbstractFactoryModel.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,15 +16,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AbstractFactoryModel.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/大话设计模式/src/AbstractFactoryModel/AbstractFactoryModel.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="27">
-                <caret line="1" column="34" lean-forward="false" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
-                <folding />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="dbconfig.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/大话设计模式/src/AbstractFactoryModel/dbconfig.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConnectionFactory.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/大话设计模式/src/AbstractFactoryModel/ConnectionFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1134#1135#0" expanded="true" />
+                <element signature="e#1164#1165#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -47,8 +60,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/大话设计模式/src/DecorativePattern/Component.java" />
-        <option value="$PROJECT_DIR$/大话设计模式/src/DecorativePattern/Decorator.java" />
         <option value="$PROJECT_DIR$/大话设计模式/src/DecorativePattern/ConcreteDecoratorA.java" />
         <option value="$PROJECT_DIR$/大话设计模式/src/DecorativePattern/ConcreteDecoratorB.java" />
         <option value="$PROJECT_DIR$/大话设计模式/src/DecorativePattern/Main.java" />
@@ -97,7 +108,9 @@
         <option value="$PROJECT_DIR$/大话设计模式/src/ObserverPattern/ConcreteObserver.java" />
         <option value="$PROJECT_DIR$/大话设计模式/src/ObserverPattern/Main.java" />
         <option value="$PROJECT_DIR$/大话设计模式/src/ObserverPattern/ObserverPattern.md" />
+        <option value="$PROJECT_DIR$/大话设计模式/src/AbstractFactoryModel/dbconfig.properties" />
         <option value="$PROJECT_DIR$/大话设计模式/src/AbstractFactoryModel/AbstractFactoryModel.md" />
+        <option value="$PROJECT_DIR$/大话设计模式/src/AbstractFactoryModel/ConnectionFactory.java" />
       </list>
     </option>
   </component>
@@ -107,7 +120,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="330" />
     <option name="y" value="22" />
     <option name="width" value="1076" />
@@ -175,6 +188,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -204,14 +218,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/java project/phone" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -224,8 +237,8 @@
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="BuilderPattern" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\github_project\Design-patterns\大话设计模式\src\SimpleFactoryMode" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="FactoryMethodPattern" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="FacadePatterns" />
@@ -233,8 +246,9 @@
       <recent name="DecorativePattern" />
       <recent name="StrategyPattern" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="FactoryMethodPattern" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\github_project\Design-patterns\大话设计模式\src\AbstractFactoryModel" />
+      <recent name="D:\github_project\Design-patterns\大话设计模式\src\SimpleFactoryMode" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -477,15 +491,17 @@
       <workItem from="1514965096086" duration="2147000" />
       <workItem from="1515043138355" duration="1591000" />
       <workItem from="1515114326505" duration="6707000" />
-      <workItem from="1515204293357" duration="1603000" />
+      <workItem from="1515204293357" duration="1812000" />
+      <workItem from="1515206877335" duration="882000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31790000" />
+    <option name="totallyTimeSpent" value="32881000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -496,7 +512,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979593" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20208333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20208333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -527,20 +543,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/大话设计模式/src/PrototypePattern/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="51" lean-forward="false" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/大话设计模式/src/PrototypePattern/ConcretePrototype1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="53" lean-forward="false" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/大话设计模式/src/TemplateMethod/ConcreteClassA.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -909,11 +911,31 @@
     <entry file="file://$PROJECT_DIR$/大话设计模式/src/AbstractFactoryModel/AbstractFactoryModel.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="27">
-            <caret line="1" column="34" lean-forward="false" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
+          <first_editor relative-caret-position="54">
+            <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/大话设计模式/src/AbstractFactoryModel/dbconfig.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/大话设计模式/src/AbstractFactoryModel/ConnectionFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1134#1135#0" expanded="true" />
+            <element signature="e#1164#1165#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
