@@ -30,7 +30,7 @@ public class ConnectionFactory {
         driver = properties.getProperty("driver");
         dburl = properties.getProperty("dburl");
         user = properties.getProperty("user");
-        password = properties.getProperty("passowrd");
+        password = properties.getProperty("password");
     }
 
     private ConnectionFactory(){}
