@@ -43,7 +43,7 @@ public class ConnectionFactory {
      * 通过反射执行连接
      * @return
      */
-    public Connection makezConnection() {
+    public Connection makeConnection() {
         try {
             Class.forName(driver);
             connection = DriverManager.getConnection(dburl, user, password);
