@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5fd1cd52-dd90-483d-9e6b-a0cf9a21fcdc" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/大话设计模式/src/StateModel/ConcreteA.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/大话设计模式/src/StateModel/ConcreteB.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/大话设计模式/src/StateModel/Context.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/大话设计模式/src/StateModel/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/大话设计模式/src/StateModel/State.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/大话设计模式/src/StateModel/StateModel.md" afterPath="$PROJECT_DIR$/大话设计模式/src/StateModel/StateModel.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,12 +13,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/大话设计模式/src/StateModel/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-              <folding />
+      <file leaf-file-name="StateModel.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/大话设计模式/src/StateModel/StateModel.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="189">
+                <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -92,13 +90,13 @@
         <option value="$PROJECT_DIR$/大话设计模式/src/AbstractFactoryModel/dbconfig.properties" />
         <option value="$PROJECT_DIR$/大话设计模式/src/AbstractFactoryModel/AbstractFactoryModel.md" />
         <option value="$PROJECT_DIR$/大话设计模式/src/AbstractFactoryModel/ConnectionFactory.java" />
-        <option value="$PROJECT_DIR$/大话设计模式/src/StateModel/StateModel.md" />
         <option value="$PROJECT_DIR$/大话设计模式/src/StateModel/Statte.java" />
         <option value="$PROJECT_DIR$/大话设计模式/src/StateModel/State.java" />
         <option value="$PROJECT_DIR$/大话设计模式/src/StateModel/Context.java" />
         <option value="$PROJECT_DIR$/大话设计模式/src/StateModel/ConcreteA.java" />
         <option value="$PROJECT_DIR$/大话设计模式/src/StateModel/ConcreteB.java" />
         <option value="$PROJECT_DIR$/大话设计模式/src/StateModel/Main.java" />
+        <option value="$PROJECT_DIR$/大话设计模式/src/StateModel/StateModel.md" />
       </list>
     </option>
   </component>
@@ -483,12 +481,12 @@
       <workItem from="1515114326505" duration="6707000" />
       <workItem from="1515204293357" duration="1812000" />
       <workItem from="1515206877335" duration="1285000" />
-      <workItem from="1515399446270" duration="1211000" />
+      <workItem from="1515399446270" duration="1628000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34495000" />
+    <option name="totallyTimeSpent" value="34912000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -856,17 +854,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/大话设计模式/src/StateModel/StateModel.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="27">
-            <caret line="1" column="36" lean-forward="false" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/大话设计模式/src/StateModel/Context.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
@@ -908,9 +895,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/大话设计模式/src/StateModel/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        <state relative-caret-position="270">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/大话设计模式/src/StateModel/StateModel.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="189">
+            <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
