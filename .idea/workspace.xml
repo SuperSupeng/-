@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5fd1cd52-dd90-483d-9e6b-a0cf9a21fcdc" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/大话设计模式/src/SingletonPattern/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/大话设计模式/src/SingletonPattern/Singleton.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/大话设计模式/src/SingletonPattern/DoubleLockedSingleton.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/大话设计模式/src/SingletonPattern/ThreadSingleton.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/大话设计模式/src/SingletonPattern/SingletonPattern.md" afterPath="$PROJECT_DIR$/大话设计模式/src/SingletonPattern/SingletonPattern.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,8 +20,8 @@
         <entry file="file://$PROJECT_DIR$/大话设计模式/src/SingletonPattern/SingletonPattern.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="27">
-                <caret line="1" column="26" lean-forward="true" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+              <first_editor relative-caret-position="216">
+                <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -48,8 +49,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/大话设计模式/src/FacadePatterns/SubSystemTwo.java" />
-        <option value="$PROJECT_DIR$/大话设计模式/src/FacadePatterns/Facade.java" />
         <option value="$PROJECT_DIR$/大话设计模式/src/FacadePatterns/Main.java" />
         <option value="$PROJECT_DIR$/大话设计模式/src/FacadePatterns/FacadePatterns.md" />
         <option value="$PROJECT_DIR$/大话设计模式/src/BuilderPattern/Product.java" />
@@ -96,9 +95,11 @@
         <option value="$PROJECT_DIR$/大话设计模式/src/IteratorPattern/ConcreteIterator.java" />
         <option value="$PROJECT_DIR$/大话设计模式/src/IteratorPattern/Main.java" />
         <option value="$PROJECT_DIR$/大话设计模式/src/IteratorPattern/IteratorPattern.md" />
-        <option value="$PROJECT_DIR$/大话设计模式/src/SingletonPattern/SingletonPattern.md" />
         <option value="$PROJECT_DIR$/大话设计模式/src/SingletonPattern/Singleton.java" />
         <option value="$PROJECT_DIR$/大话设计模式/src/SingletonPattern/Main.java" />
+        <option value="$PROJECT_DIR$/大话设计模式/src/SingletonPattern/ThreadSingleton.java" />
+        <option value="$PROJECT_DIR$/大话设计模式/src/SingletonPattern/DoubleLockedSingleton.java" />
+        <option value="$PROJECT_DIR$/大话设计模式/src/SingletonPattern/SingletonPattern.md" />
       </list>
     </option>
   </component>
@@ -108,7 +109,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="330" />
     <option name="y" value="22" />
     <option name="width" value="1076" />
@@ -225,21 +226,21 @@
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="BuilderPattern" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="MementoMode" />
-      <recent name="StateModel" />
-      <recent name="FactoryMethodPattern" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\github_project\Design-patterns\大话设计模式\src\AbstractFactoryModel" />
+      <recent name="D:\github_project\Design-patterns\大话设计模式\src\SimpleFactoryMode" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="SingletonPattern" />
       <recent name="StateModel" />
       <recent name="FacadePatterns" />
       <recent name="TemplateMethod" />
       <recent name="DecorativePattern" />
-      <recent name="StrategyPattern" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\github_project\Design-patterns\大话设计模式\src\AbstractFactoryModel" />
-      <recent name="D:\github_project\Design-patterns\大话设计模式\src\SimpleFactoryMode" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="MementoMode" />
+      <recent name="StateModel" />
+      <recent name="FactoryMethodPattern" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -488,15 +489,15 @@
       <workItem from="1515542789328" duration="1657000" />
       <workItem from="1515639109821" duration="1102000" />
       <workItem from="1515726740786" duration="2099000" />
-      <workItem from="1515804837048" duration="2890000" />
+      <workItem from="1515804837048" duration="3277000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42681000" />
+    <option name="totallyTimeSpent" value="43068000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -539,20 +540,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/大话设计模式/src/DecorativePattern/ConcreteComponent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/大话设计模式/src/DecorativePattern/Component.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/大话设计模式/src/DecorativePattern/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -936,11 +923,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/大话设计模式/src/SingletonPattern/DoubleLockedSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/大话设计模式/src/SingletonPattern/ThreadSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/大话设计模式/src/SingletonPattern/SingletonPattern.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="27">
-            <caret line="1" column="26" lean-forward="true" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+          <first_editor relative-caret-position="216">
+            <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
